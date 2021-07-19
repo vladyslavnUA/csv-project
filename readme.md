@@ -2,6 +2,8 @@
 
 ## Data: World Happiness Report
 
+Medium Post: https://vladyslav-nykoliuk.medium.com/the-world-happiness-report-analysis-2fe0ba4f1b4b
+
 Assumptions:
 
 1. People in coutries of smaller population tend to be happier than those with a large population count
